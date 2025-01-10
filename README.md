@@ -65,7 +65,7 @@ Generate word clouds, topic distributions, and sentiment heatmaps.
 ## Results
 The project compares sentiment analysis models, evaluates topic coherence, and provides insights on sentiment distribution across genres.
 
-##LINK TO THE FILE
+## File Link
 ```python
 https://github.com/Mahrukh-Baig/NLP-ASSIGNMENT/blob/main/NLP_ASSIGNMENT_1%20(1).ipynb
 ```
