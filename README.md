@@ -1,7 +1,4 @@
 # NLP-ASSIGNMENT
-Here's an updated and shortened version of your README file:
-
----
 
 # IMDB Movie Review Sentiment Analysis and Topic Modeling
 
@@ -67,3 +64,8 @@ Generate word clouds, topic distributions, and sentiment heatmaps.
 
 ## Results
 The project compares sentiment analysis models, evaluates topic coherence, and provides insights on sentiment distribution across genres.
+
+##LINK TO THE FILE
+```python
+https://github.com/Mahrukh-Baig/NLP-ASSIGNMENT/blob/main/NLP_ASSIGNMENT_1%20(1).ipynb
+```
